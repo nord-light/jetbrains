@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>com.nahime.nordlight</id>
+  <id>studio.illegal.nordlight</id>
   <name>Nord Light</name>
   <version>1.0.0</version>
-  <vendor>Nahime</vendor>
+  <vendor>Illegal Studio</vendor>
 
   <description>
     <![CDATA[
@@ -15,6 +15,6 @@
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="com.nahime.nordlight.theme" path="/nord-light.theme.json" />
+    <themeProvider id="studio.illegal.nordlight.theme" path="/nord-light.theme.json" />
   </extensions>
 </idea-plugin>
