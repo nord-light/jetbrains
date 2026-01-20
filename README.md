@@ -113,3 +113,7 @@ The theme includes syntax highlighting for:
 ## License
 
 MIT License
+
+## Author
+
+Created by [Vincenzo Petrucci](https://nahi.me/) ([@nahime0](https://github.com/nahime0)) as part of [Illegal Studio](https://illegal.studio/).
