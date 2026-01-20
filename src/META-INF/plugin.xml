@@ -1,0 +1,20 @@
+<idea-plugin>
+  <id>com.nahime.nordlight</id>
+  <name>Nord Light</name>
+  <version>1.0.0</version>
+  <vendor>Nahime</vendor>
+
+  <description>
+    <![CDATA[
+      A light theme for JetBrains IDEs based on the Nord color palette.
+    ]]>
+  </description>
+
+  <idea-version since-build="191.0" />
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="com.nahime.nordlight.theme" path="/nord-light.theme.json" />
+  </extensions>
+</idea-plugin>
