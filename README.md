@@ -2,6 +2,19 @@
 
 A light theme for JetBrains IDEs (PhpStorm, IntelliJ IDEA, WebStorm, etc.) based on the [Nord](https://www.nordtheme.com/) color palette, adapted for light backgrounds.
 
+## Installation
+
+Available on the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/29846-nord-light).
+
+Install directly from your IDE:
+1. Settings → Plugins → Marketplace
+2. Search for "Nord Light"
+3. Click Install and restart the IDE
+
+### Activate the theme
+
+Settings → Appearance & Behavior → Appearance → Theme → "Nord Light"
+
 ## Project Structure
 
 ```
@@ -30,23 +43,6 @@ nord-light/
 ```
 
 This generates `outputs/nord-light.jar`.
-
-### Installation
-
-1. **From JAR file:**
-   - Copy `nord-light.jar` to your IDE plugins folder:
-     - macOS: `~/Library/Application Support/JetBrains/<IDE><version>/plugins/`
-     - Linux: `~/.config/JetBrains/<IDE><version>/plugins/`
-     - Windows: `%APPDATA%\JetBrains\<IDE><version>\plugins\`
-   - Restart the IDE
-
-2. **From ZIP (Install Plugin from Disk):**
-   - In IDE: Settings → Plugins → ⚙️ → Install Plugin from Disk...
-   - Select the `nord-light.jar` file
-   - Restart the IDE
-
-3. **Activate the theme:**
-   - Settings → Appearance & Behavior → Appearance → Theme → "Nord Light"
 
 ## Color Palette
 
