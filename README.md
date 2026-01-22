@@ -108,7 +108,7 @@ The theme includes syntax highlighting for:
 ## Credits
 
 - Based on [Nord Theme](https://www.nordtheme.com/) by [Sven Greb](https://github.com/svengreb)
-- Original JetBrains port: [nordtheme/jetbrains](https://github.com/nordtheme/jetbrains)
+- Visual Studio Code version: [nord-light/vscode](https://github.com/nord-light/vscode)
 
 ## License
 
