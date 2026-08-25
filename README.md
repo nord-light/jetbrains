@@ -104,7 +104,14 @@ The theme includes syntax highlighting for:
 ## Credits
 
 - Based on [Nord Theme](https://www.nordtheme.com/) by [Sven Greb](https://github.com/svengreb)
-- Visual Studio Code version: [nord-light/vscode](https://github.com/nord-light/vscode)
+
+## Other Nord Light Ports
+
+- [Kitty](https://github.com/nord-light/kitty)
+- [Neovim](https://github.com/nord-light/neovim)
+- [tmux](https://github.com/nord-light/tmux)
+- [Visual Studio Code](https://github.com/nord-light/vscode)
+- [Zellij](https://github.com/nord-light/zellij)
 
 ## License
 
